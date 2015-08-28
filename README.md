@@ -12,7 +12,7 @@ never login to telegram if you see tdata , maybe you try to make valid token for
 ___
 
 #The Bug
-based on our researches on (https://github.com/telegramdesktop/tdesktop), we found a Session Fixation bug, which could lead to full account hijack, alongside with bypassing two-step verification and logging in without any sessions getting recorded.
+based on our researches on (https://github.com/telegramdesktop/tdesktop,https://desktop.telegram.org/), we found a Session Fixation bug, which could lead to full account hijack, alongside with bypassing two-step verification and logging in without any sessions getting recorded.
 
 #what is  session Fixation 
 In computer network security, session fixation attacks attempt to exploit the vulnerability of a system which allows one person to fixate (set) another person's session identifier (SID). Most session fixation attacks are web based, and most rely on session identifiers being accepted from URLs (query string) or POST data.
