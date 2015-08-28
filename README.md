@@ -2,7 +2,9 @@ credit to
 
 https://twitter.com/R00tkitSMM  (firozimaysam@gmail.com) telegram username : https://telegram.me/firozi
 
-https://twitter.com/mtp1376
+https://twitter.com/mtp1376    (mtp1376@gmail.com)
+
+
 
 never login to telegram if you see tdata , maybe you try to make valid token for someone else :)
 ___
