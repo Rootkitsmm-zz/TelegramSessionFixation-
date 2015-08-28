@@ -1,6 +1,6 @@
 credit to
 
-https://twitter.com/R00tkitSMM 
+https://twitter.com/R00tkitSMM  (firozimaysam@gmail.com) telegram username : https://telegram.me/firozi
 
 https://twitter.com/mtp1376
 
