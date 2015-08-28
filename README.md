@@ -4,6 +4,9 @@ https://twitter.com/R00tkitSMM
 
 https://twitter.com/mtp1376
 
+never login to telegram if you see tdata , maybe you try to make valid token for someone else :)
+___
+
 #The Bug
 based on our researches on (https://github.com/telegramdesktop/tdesktop), we found a Session Fixation bug, which could lead to full account hijack, alongside with bypassing two-step verification and logging in without any sessions getting recorded.
 
@@ -28,4 +31,4 @@ So that if you do the following steps, you can demo the bug:
 
 It IS a bug for sure, and it's (https://www.owasp.org/index.php/Session_fixation).
 
-so never login to telegram if you see tdata , maybe  you try to make valid token for  someone else  :)
+so again never login to telegram if you see tdata , maybe  you try to make valid token for  someone else  :)
